@@ -1,0 +1,13 @@
+tipo:ACPM:9800:80.0
+tipo:Extra:15700:400.0
+tipo:BioDiesel:25000:165.0
+tipo:Diesel:12700:500.0
+surtidor:Jaime:ACPM:70.0:Extra:0.0:BioDiesel:20.0:Diesel:0.0
+surtidor:Roberta:ACPM:0.0:Extra:0.0:BioDiesel:0.0:Diesel:0.0
+surtidor:Jaime:ACPM:0.0:Extra:0.0:BioDiesel:15.0:Diesel:0.0
+surtidor:Jaime:ACPM:0.0:Extra:0.0:BioDiesel:0.0:Diesel:0.0
+empleado:Roberta:0
+empleado:David:0
+empleado:Jaime:1561000
+empleado:Carlos:0
+empleado:Ernesto:0

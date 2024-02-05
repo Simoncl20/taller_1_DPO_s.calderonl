@@ -1,0 +1,13 @@
+tipo:ACPM:9750:800.0
+tipo:Extra:18400:200.0
+tipo:Corriente:10900:450.0
+tipo:Diesel:15000:150.0
+surtidor:Juan:ACPM:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Ermenegild:ACPM:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Maria:ACPM:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Ermenegild:ACPM:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+empleado:Ermenegild:0
+empleado:Sara:0
+empleado:Daniel:0
+empleado:Juan:0
+empleado:Maria:0
